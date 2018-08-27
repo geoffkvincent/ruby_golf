@@ -1,5 +1,3 @@
-
-
 @r_a = ["rock", "paper", "scissor"].shuffle
 def rps
   puts "ENTER rock, paper or scissor"
